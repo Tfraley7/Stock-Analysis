@@ -14,6 +14,12 @@ To meet the purpose of this project it was important for me to analyze the stock
 
 When analyzing the stock data between 2017 and 2018. Considering the average return in 2017 was 67.3% amongst all stock data for 2017 and -8.5% in 2018. The strongest stocks between 2017 and 2018 were ENPH and RUN. ENPH had returns 129.5% in 2017 and 81.9% in 2018. RUN had returns of 5.5% in 2017 84% for 2018. Knowing this, one could deduce that ENPH had dropped nearly 37% in returns from 2017 to 2018. Which could make RUN a better stock option considering the  1,427.27% increase on returns. The original stock that Steve was interested in (DQ) had significant diminishes on returns. With a final 2017 return at 199.4% and final 2018 return at -62.6%. The returns for DQ dropped 68.60%.
 
+### 2017 and 2018 Stock Data
+
+![](wiki/filename 2018 Results.png)
+
+![](2017 results.png)
+
 ##Refactored Code
 
 Sub AllStocksAnalysisRefactored()
@@ -159,23 +165,20 @@ Refactoring the code did take some time; however, it did assist in creating more
 
 As mentioned before, the refactored code offered quicker run times than the previous code (unrefactored) wihtin the VBA script. The refactored code did have the disadvantage of being more time consuming. However, this could be based on how new I was to code refactoring when coding and analyzing the Green Stocks data set. The original script had macro run times at 0.26 (2017 data) and 0.25 (2018 data). Once the macro was refactored the run times became 0.05 for 2017 and 2018 as well. All of which can be viewed below.  
  
- ### Non Refactored VS Refactored Results
+ ### Non Refactored Macro
+ 
+![](2017 Non Refactored.png)
+![](2018 Non Refactored.png)
 
-![2017 Non Refactored.png](https://myoctocat.com/assets/images/base-octocat.svg)
-![2017. Refactored.png](https://myoctocat.com/assets/images/base-octocat.svg)
+## Refactored Macro
 
-![2018 Non Refactored.png](https://myoctocat.com/assets/images/base-octocat.svg)
-![2018. Refactored.png](https://myoctocat.com/assets/images/base-octocat.svg)
-  
+![](2017 Refactored Macro.png)
+![](2018 Refactored Macro.png)
+
 ### Ticket Retuns and Total Volumes Results in Graphical View
 
-![Ticket Returns.png](https://myoctocat.com/assets/images/base-octocat.svg)
-![Total Volume.png](https://myoctocat.com/assets/images/base-octocat.svg)
-
-### Non Refactored VS Refactored Results
-
-![2017 results.png](https://myoctocat.com/assets/images/base-octocat.svg)
-![2018 Results.png.png](https://myoctocat.com/assets/images/base-octocat.svg)
+![](Total Volume.png)
+![](Ticket Returns.png)
 
 
 ### References
