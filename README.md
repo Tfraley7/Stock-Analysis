@@ -16,7 +16,7 @@ When analyzing the stock data between 2017 and 2018. Considering the average ret
 
 ### 2017 and 2018 Stock Data
 
-![](wiki/filename 2018 Results.png)
+![](Resources/filename 2018 Results.png)
 
 ![](2017 results.png)
 
