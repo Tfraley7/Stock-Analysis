@@ -16,9 +16,9 @@ When analyzing the stock data between 2017 and 2018. Considering the average ret
 
 ### 2017 and 2018 Stock Data
 
-![](Resources/filename 2018 Results.png)
+![](2018%20Results.png)
 
-![](2017 results.png)
+![](2017%20results.png)
 
 ##Refactored Code
 
@@ -168,17 +168,17 @@ As mentioned before, the refactored code offered quicker run times than the prev
  ### Non Refactored Macro
  
 ![](2017%20Non%20Refactored.png)
-![](2018 Non Refactored.png)
+![](2018%20Non%20Refactored.png)
 
 ## Refactored Macro
 
-![](2017 Refactored Macro.png)
-![](2018 Refactored Macro.png)
+![](2017%20Refactored%20Macro.png)
+![](2018%20Refactored%20Macro.png)
 
 ### Ticket Retuns and Total Volumes Results in Graphical View
 
-![](Total Volume.png)
-![](Ticket Returns.png)
+![](Total%20Volume.png)
+![](Ticket%20Returns.png)
 
 
 ### References
